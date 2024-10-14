@@ -23,8 +23,6 @@ Feito com o Netbeans utilizando o GUI do Swing
 
 💬 Me pergunte sobre...
 
-📫 Como entrar em contato comigo
-### (75)988178950
 
 ![2023-07-05 (1)](https://github.com/JoaoLlucaxs/LaVia_Sistema/assets/92184255/e41a073a-7e28-4d79-b53c-24a6cd2a640c)
 ![2023-07-05 (2)](https://github.com/JoaoLlucaxs/LaVia_Sistema/assets/92184255/7c76eac2-a32c-4d32-87ef-784b34b14b91)
